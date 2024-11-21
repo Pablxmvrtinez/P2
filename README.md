@@ -44,7 +44,9 @@ Recopilacion de estructura logica: Sites and Service
 
 Dominio y controlador de dominio: agrupacion logica de objetos bajo las reglas comunes del active directory.
 Controlador de dominio: Servidor que ejecuta el active directory y su dominio
-POWERSHELL
+![alt](img/IMG_20241121_125829.jpg)
+
+## POWERSHELL
 
 Le daremos click derecho en el icono de windows y le daremos a powershell (administrador).
 escribiremos los siguientes comandos
@@ -68,4 +70,5 @@ para confirmar la degradación
 Get-ADDomainController -Discover
 
 Se me olvido hacer las capturas solo tengo esta:
-/![alt](este equipo/documentos/github/p2/img/POWERSHELL)
+
+![Texto alternativo](img/POWERSHELL.jpg)
